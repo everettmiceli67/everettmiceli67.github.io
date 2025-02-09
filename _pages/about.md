@@ -12,6 +12,6 @@ This is a temporary mock up of a personal website for Assignment A1.
 
 
 
-![Editing a markdown file for a talk](/images/street.png)
+![Image Placeholder:](/images/street.png)
 
 
