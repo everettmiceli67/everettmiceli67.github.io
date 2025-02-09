@@ -6,6 +6,9 @@ collection: portfolio
 
 Simplistic ALU design enabling 8 total functions, including Multiplication, Addition, Subtraction, and basic combinational logic functions. Utilitizes fast adders and modular components to limit size and increase efficiency.
 
+<br/><img src='/images/ALU.png'>
+
+
 <br/><img src='/images/ADD_SUB_LAYOUT.png'>
 
 <br/><img src='/images/ADD_SUB_SCHEMATIC.png'>
